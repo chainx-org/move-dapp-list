@@ -1,0 +1,26 @@
+{
+  "aptos": [
+    {
+      "name": "xxx",
+      "type": "xxx",
+      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx",
+      "link": "https://xxx"
+    }
+  ],
+  "sui": [
+    {
+      "name": "xxx",
+      "type": "xxx",
+      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx",
+      "link": "https://xxx"
+    }
+  ],
+  "starcoin": [
+    {
+      "name": "xxx",
+      "type": "xxx",
+      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx",
+      "link": "https://xxx"
+    }
+  ]
+}
