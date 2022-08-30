@@ -14,8 +14,8 @@
     },
     {
       "name": "OmniBTC",
-      "type": "DeFi,Aggregation",
-      "icon": "https://github.com/omniBTClabs/move-dapp-list/blob/main/assets/OmniBTC.png",
+      "type": "DEFI,Aggregation",
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
       "link": "https://www.omnibtc.finance/"
     }
   ],
@@ -25,6 +25,12 @@
       "type": "Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/sui.jpg",
       "link": "https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related"
+    },
+    {
+      "name": "OmniBTC",
+      "type": "DEFI,Aggregation",
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "link": "https://www.omnibtc.finance/"
     }
   ],
   "starcoin": [
