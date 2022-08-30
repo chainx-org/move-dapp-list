@@ -28,4 +28,12 @@
       "link": "https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk"
     }
   ]
+  "aptos": [
+    {
+      "name": "OmniBTC",
+      "type": "DeFi/Aggregation",
+      "icon": "https://github.com/omniBTClabs/move-dapp-list/blob/main/assets/OmniBTC.png",
+      "link": "https://www.omnibtc.finance/"
+    }
+  ]
 }
