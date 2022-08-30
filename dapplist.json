@@ -5,6 +5,11 @@
       "type": "DEX, Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/pontem.png",
       "link": "https://pontem.network/"
+    },{
+      "name": "Martian",
+      "type": "Wallet",
+      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/martian.png",
+      "link": "https://martianwallet.xyz/"
     }
   ],
   "sui": [
