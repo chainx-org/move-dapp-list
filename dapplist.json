@@ -2,7 +2,7 @@
   "aptos": [
     {
       "name": "Pontem Network",
-      "type": "DEX, Wallet",
+      "type": "DEX,Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/pontem.png",
       "link": "https://pontem.network/"
     },
@@ -14,7 +14,7 @@
     },
     {
       "name": "OmniBTC",
-      "type": "DeFi/Aggregation",
+      "type": "DeFi,Aggregation",
       "icon": "https://github.com/omniBTClabs/move-dapp-list/blob/main/assets/OmniBTC.png",
       "link": "https://www.omnibtc.finance/"
     }
