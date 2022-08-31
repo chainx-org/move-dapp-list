@@ -29,7 +29,7 @@
       "type": "Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/martian.png",
       "link": "https://martianwallet.xyz/"
-    },
+    }
   ],
   "sui": [
     {
@@ -55,7 +55,7 @@
       "type": "Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/sui.jpg",
       "link": "https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related"
-    },
+    }
   ],
   "starcoin": [
     {
