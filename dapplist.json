@@ -17,6 +17,18 @@
       "type": "DEFI,Aggregation",
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
       "link": "https://www.omnibtc.finance/"
+    },
+    {
+      "name": "ComingChat",
+      "type": "Wallet,Social",
+      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
+      "link": "https://coming.chat/"
+    },
+     {
+      "name": "ChainX",
+      "type": "infrastructure",
+      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
+      "link": "https://chainx.org/"
     }
   ],
   "sui": [
@@ -31,6 +43,18 @@
       "type": "DEFI,Aggregation",
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
       "link": "https://www.omnibtc.finance/"
+    },
+    {
+      "name": "ComingChat",
+      "type": "Wallet,Social",
+      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
+      "link": "https://coming.chat/"
+    },
+     {
+      "name": "ChainX",
+      "type": "infrastructure",
+      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
+      "link": "https://chainx.org/"
     }
   ],
   "starcoin": [
