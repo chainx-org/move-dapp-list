@@ -1,6 +1,24 @@
 {
   "aptos": [
     {
+      "name": "OmniBTC",
+      "type": "DEFI,Aggregation",
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "link": "https://www.omnibtc.finance/"
+    },
+    {
+      "name": "ComingChat",
+      "type": "Wallet,Social",
+      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
+      "link": "https://coming.chat/"
+    },
+     {
+      "name": "ChainX",
+      "type": "Infrastructure",
+      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
+      "link": "https://chainx.org/"
+    },
+     {
       "name": "Pontem Network",
       "type": "DEX,Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/pontem.png",
@@ -12,6 +30,8 @@
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/martian.png",
       "link": "https://martianwallet.xyz/"
     },
+  ],
+  "sui": [
     {
       "name": "OmniBTC",
       "type": "DEFI,Aggregation",
@@ -29,33 +49,13 @@
       "type": "Infrastructure",
       "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
       "link": "https://chainx.org/"
-    }
-  ],
-  "sui": [
+    },
     {
       "name": "Sui Wallet",
       "type": "Wallet",
       "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/sui.jpg",
       "link": "https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related"
     },
-    {
-      "name": "OmniBTC",
-      "type": "DEFI,Aggregation",
-      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "link": "https://www.omnibtc.finance/"
-    },
-    {
-      "name": "ComingChat",
-      "type": "Wallet,Social",
-      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
-      "link": "https://coming.chat/"
-    },
-     {
-      "name": "ChainX",
-      "type": "Infrastructure",
-      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
-      "link": "https://chainx.org/"
-    }
   ],
   "starcoin": [
     {
