@@ -6,8 +6,8 @@ move-china 的生态项目列表
 ```json
 {
     "name": "xxx", // 项目名称
-    "types": "xxx", // 项目类型，Games Social NFT Tools Wallet DEX  DEFI 
-    "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx", // 图片 logo 链接
+    "types": "xxx", // 项目类型，（游戏 社交 NFT 工具 钱包 DEX  DEFI 基础设施 聚合器 ）
+    "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx", // 图片 logo 的链接
     "link": "https://xxx" // 跳转链接
   
 }
