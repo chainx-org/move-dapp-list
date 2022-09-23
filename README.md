@@ -5,10 +5,44 @@ move-china 的生态项目列表
 # dapplist.json 添加 dapp 格式
 ```json
 {
-    "name": "xxx", // 项目名称
-    "types": "xxx", // 项目类型，（游戏 社交 NFT 工具 钱包 DEX  DEFI 基础设施 聚合器 ）
-    "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/xxx", // 图片 logo 的链接
-    "link": "https://xxx" // 跳转链接
-  
+  "aptos": [
+    //...
+    {
+      "name": "OmniBTC",  // 项目名称
+      "types": ["Social", "DEFI", "Tools"], // 项目类型：DEFI、DEX、NFT、Social、Tools、Wallet、Aggregator、Games
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", //图标链接
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …", //描述
+      "link": "https://www.omnibtc.finance/",  // 项目链接
+      "twitter": "https://twitter.com/OmniBTC",  // twitter 链接
+      "medium": "https://medium.com/@omnibtc",   // medium 链接
+      "telegram": "https://twitter.com/OmniBTC"  // telegram 链接
+    }
+  ],
+  "sui": [
+    //...
+    {
+      "name": "OmniBTC",  // 项目名称
+      "types": ["Social", "DEFI", "Tools"], // 项目类型：DEFI、DEX、NFT、Social、Tools、Wallet、Aggregator、Games
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", //图标链接
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …", //描述
+      "link": "https://www.omnibtc.finance/",  // 项目链接
+      "twitter": "https://twitter.com/OmniBTC",  // twitter 链接
+      "medium": "https://medium.com/@omnibtc",   // medium 链接
+      "telegram": "https://twitter.com/OmniBTC"  // telegram 链接
+    }
+  ],
+  "starcoin": [
+    //...
+    {
+      "name": "OmniBTC",  // 项目名称
+      "types": ["Social", "DEFI", "Tools"], // 项目类型：DEFI、DEX、NFT、Social、Tools、Wallet、Aggregator、Games
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", //图标链接
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …", //描述
+      "link": "https://www.omnibtc.finance/",  // 项目链接
+      "twitter": "https://twitter.com/OmniBTC",  // twitter 链接
+      "medium": "https://medium.com/@omnibtc",   // medium 链接
+      "telegram": "https://twitter.com/OmniBTC"  // telegram 链接
+    }
+  ]
 }
 ```
