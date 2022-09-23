@@ -1,0 +1,85 @@
+{
+  "aptos": [
+    {
+      "name": "OmniBTC",
+      "types": ["Social", "DEFI", "Tools"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["DEX", "Wallet", "Social"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["Games"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["DEX", "Games", "Tools"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["Social", "DEX"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    v,
+    {
+      "name": "OmniBTC",
+      "types": ["DEX", "DEFI", "Games"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["Games", "Social"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["Tools"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    }
+  ]
+}
