@@ -68,10 +68,9 @@
 }
 {
   "aptos": [
-    //...
     {
       "name": "Topaz", 
-      "types": ["NFT"], // 项目类型：DEFI、DEX、NFT、Social、Tools、Wallet、Aggregator、Games
+      "types": ["NFT"], 
       "icon": "https://pbs.twimg.com/profile_images/1567612585222045698/aI16v6aP_400x400.jpg",
       "description": "发现艺术、文化和数字表达。建立在Aptos上的NFT市场。", 
       "link": "https://www.topaz.so/", 
