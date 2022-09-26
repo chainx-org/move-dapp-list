@@ -77,4 +77,16 @@
       "twitter": "https://twitter.com/TopazMarket", 
     }
   ],
+{
+  "aptos": [
+    {
+      "name": "Souffl3", 
+      "types": ["NFT"], 
+      "icon": "https://pbs.twimg.com/profile_images/1541969767044886528/nC6kYlIk_400x400.jpg"
+      "description": "Aptos上的下一代NFT智能交易市场 ",
+      "link": "https://souffl3.com/",
+      "twitter": "https://twitter.com/nft_souffl3", 
+      "telegram": "https://t.me/souffl3" 
+    }
+  ],
 
