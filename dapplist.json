@@ -2,67 +2,37 @@
   "aptos": [
     {
       "name": "OmniBTC",
-      "type": "DEFI,Aggregation",
+      "types": ["Social", "DEFI", "Tools"],
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "link": "https://www.omnibtc.finance/"
-    },
-    {
-      "name": "ComingChat",
-      "type": "Wallet,Social",
-      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
-      "link": "https://coming.chat/"
-    },
-     {
-      "name": "ChainX",
-      "type": "Infrastructure",
-      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
-      "link": "https://chainx.org/"
-    },
-     {
-      "name": "Pontem Network",
-      "type": "DEX,Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/pontem.png",
-      "link": "https://pontem.network/"
-    },
-    {
-      "name": "Martian",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/martian.png",
-      "link": "https://martianwallet.xyz/"
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
     }
   ],
   "sui": [
     {
       "name": "OmniBTC",
-      "type": "DEFI,Aggregation",
+      "types": ["Social", "DEFI", "Tools"],
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "link": "https://www.omnibtc.finance/"
-    },
-    {
-      "name": "ComingChat",
-      "type": "Wallet,Social",
-      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
-      "link": "https://coming.chat/"
-    },
-     {
-      "name": "ChainX",
-      "type": "Infrastructure",
-      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
-      "link": "https://chainx.org/"
-    },
-    {
-      "name": "Sui Wallet",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/sui.jpg",
-      "link": "https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related"
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
     }
   ],
   "starcoin": [
     {
-      "name": "Starmask",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/starmask.png",
-      "link": "https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk"
+      "name": "OmniBTC",
+      "types": ["Social", "DEFI", "Tools"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
     }
   ]
 }
