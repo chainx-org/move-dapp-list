@@ -1,88 +1,18 @@
 {
   "aptos": [
     {
-      "name": "OmniBTC",
-      "type": "DEFI,Aggregation",
-      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "link": "https://www.omnibtc.finance/"
-    },
-    {
-      "name": "ComingChat",
-      "type": "Wallet,Social",
-      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
-      "link": "https://coming.chat/"
-    },
-     {
-      "name": "ChainX",
-      "type": "Infrastructure",
-      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
-      "link": "https://chainx.org/"
-    },
-     {
-      "name": "Pontem Network",
-      "type": "DEX,Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/pontem.png",
-      "link": "https://pontem.network/"
-    },
-    {
-      "name": "Martian",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/martian.png",
-      "link": "https://martianwallet.xyz/"
-    }
-  ],
-  "sui": [
-    {
-      "name": "OmniBTC",
-      "type": "DEFI,Aggregation",
-      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "link": "https://www.omnibtc.finance/"
-    },
-    {
-      "name": "ComingChat",
-      "type": "Wallet,Social",
-      "icon": "https://pbs.twimg.com/profile_images/1484828150064242689/pLdauGI4_400x400.jpg",
-      "link": "https://coming.chat/"
-    },
-     {
-      "name": "ChainX",
-      "type": "Infrastructure",
-      "icon": "https://pbs.twimg.com/profile_images/1351092066340757505/V4BjhfvY_400x400.jpg",
-      "link": "https://chainx.org/"
-    },
-    {
-      "name": "Sui Wallet",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/sui.jpg",
-      "link": "https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related"
-    }
-  ],
-  "starcoin": [
-    {
-      "name": "Starmask",
-      "type": "Wallet",
-      "icon": "https://raw.githubusercontent.com/chainx-org/dapp-list/main/assets/starmask.png",
-      "link": "https://chrome.google.com/webstore/detail/starmask/mfhbebgoclkghebffdldpobeajmbecfk"
-    }
-  ]
-}
-{
-  "aptos": [
-    {
       "name": "Tsunami Finance",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Tsunami%20Finance.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/TsunamiFinance.jpeg",
       "description": "以0%的滑点交易现货和周边产品。在Aptos上获得高达30倍的杠杆率，获得流动的可持续收益率",
       "link": "https://tsunami.finance/",
       "twitter": "https://twitter.com/Tsunamifinance_",
-      "discord": "discord.gg/Amnr62Rahm",
+      "discord": "discord.gg/Amnr62Rahm"
     },
-    {
-  "aptos": [
     {
       "name": "Foil Labs",
       "types": ["Protocol"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Foil%20Labs.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/FoilLabs.jpeg",
       "description": "Foil正在Aptos上建立费用最低的稳定交换协议。",
       "link": "http://foil.so//",
       "twitter": "https://twitter.com/foil_labs/",
@@ -90,11 +20,9 @@
       "telegram": "https://twitter.com/OmniBTC"
     },
     {
-  "aptos": [
-    {
       "name": "Econia",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Econia.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Econia.jpeg",
       "description": "Econia公司为Aptos提供的超平行化链上订单簿",
       "link": "https://www.econialabs.com/",
       "twitter": "https://twitter.com/EconiaLabs",
@@ -102,11 +30,9 @@
       "discord": "https://discord.com/invite/Z7gXcMgX8A"
     },
     {
-  "aptos": [
-    {
       "name": "Laminar",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Laminar.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Laminar.jpeg",
       "description": "一个建立在Aptos上的去中心化的交易所",
       "link": "https://laminar.markets/",
       "twitter": "https://twitter.com/LaminarMarkets",
@@ -114,11 +40,9 @@
       "discord": "https://discord.com/invite/laminar"
     },
     {
-  "aptos": [
-    {
       "name": "KX.finance",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/KX.finance.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/KX.finance.jpeg",
       "description": "Aptos/Sui上的DeFi/DEX聚合器",
       "link": "https://www.kx.finance/",
       "twitter": "https://twitter.com/KXfinance",
@@ -126,114 +50,92 @@
       "telegram": "t.me/KXFinance"
     },
     {
-  "aptos": [
-    {
       "name": "1kx Exchange",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/1KX.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/1KX.jpeg",
       "description": "1KX协议是AMM+DEX+借贷协议+稳定币的新混合体。",
       "link": "https://1kx.exchange/",
       "twitter": "https://twitter.com/1kxprotocol",
-      "discord": "https://discord.com/invite/DMpgp35XBD", 
+      "discord": "https://discord.com/invite/DMpgp35XBD"
     },
-    {
-  "aptos": [
     {
       "name": "Aptoswap",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Aptoswap.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aptoswap.jpeg",
       "description": "将AMM基础设施换成APTOS区块链",
       "link": "https://aptoswap.net/",
       "twitter": "https://twitter.com/aptoswap_net/",
-      "discord": "discord.gg/xbM7XAknHf",
+      "discord": "discord.gg/xbM7XAknHf"
     },
-    {
-  "aptos": [
     {
       "name": "AptoSwap",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/AptoSwap_org.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/AptoSwap_org.jpeg",
       "description": "在Aptos上进行交换的APP。通过Aptos安全、轻松地以最佳价格交易加密货币。",
       "link": "https://aptoswap.app/swap",
-      "twitter": "https://twitter.com/AptoSwap_org",
+      "twitter": "https://twitter.com/AptoSwap_org"
     },
-    {
-  "aptos": [
     {
       "name": "Enchanter Finance",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Enchanter.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Enchanter.jpeg",
       "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
       "link": "https://www.enchanter.fi/",
       "twitter": "https://twitter.com/EnchanterFi",
-      "discord": "https://discord.gg/kAxTRj6YBt",
+      "discord": "https://discord.gg/kAxTRj6YBt"
     },
-    {
-  "aptos": [
     {
       "name": "Saber Protocol",
-      "types": ["Protocol", ],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/SaberProtocol.jpeg",
+      "types": ["Protocol"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/SaberProtocol.jpeg",
       "description": "稳定交换AMM",
       "link": "https://app.saber.so/",
-      "twitter": "https://twitter.com/SaberProtocol",
+      "twitter": "https://twitter.com/SaberProtocol"
     },
-    {
-  "aptos": [
     {
       "name": "Aswap",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Aswap.png",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aswap.png",
       "description": "一个交易和自动提供流动性的协议",
       "link": "https://aswap.exchange/#/swap",
       "twitter": "https://twitter.com/aswaplabs",
-      "discord": "https://discord.com/invite/kVVjNHQpUz",
+      "discord": "https://discord.com/invite/kVVjNHQpUz"
     },
-    {
-  "aptos": [
     {
       "name": "Empo",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Empo.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Empo.jpeg",
       "description": "Empo正在打造Aptos最安全的DEX",
-      "twitter": "https://twitter.com/Empo_Fi",
+      "twitter": "https://twitter.com/Empo_Fi"
     },
-    {
-  "aptos": [
     {
       "name": "Umi Protocol",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/UmiProtocol.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/UmiProtocol.jpeg",
       "description": "在Aptos上的智能AMM，有一个自动集中的流动性算法和互换聚合引擎。",
-      "twitter": "https://twitter.com/UmiProtocol",
+      "twitter": "https://twitter.com/UmiProtocol"
     },
-    {
-  "aptos": [
     {
       "name": "Apteria Finance",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/Apteria.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Apteria.jpeg",
       "description": "建立在Aptos上的中央限价订单（CLOB）DEX、。",
       "link": "http://apteria.io/",
-      "twitter": "https://twitter.com/apteria_io",
+      "twitter": "https://twitter.com/apteria_io"
     },
-    {
-  "aptos": [
     {
       "name": "AnimeSwap",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/AnimeSwap.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/AnimeSwap.jpeg",
       "description": "去中心化的交易所",
       "link": "https://app.animeswap.org/#/swap?chain=aptos_devnet",
       "twitter": "https://twitter.com/animeswap_org",
-      "discord": "discord.gg/rbUG6SpRAM",
+      "discord": "discord.gg/rbUG6SpRAM"
     },
-    {
-  "aptos": [
     {
       "name": "OpenOcean",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/OpenOcean.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/OpenOcean.jpeg",
       "description": "去中心化的虚拟货币交易解决方案",
       "link": "https://openocean.finance/",
       "twitter": "https://twitter.com/OpenOceanGlobal",
@@ -241,13 +143,17 @@
       "telegram": "https://t.me/OOFinance"
     },
     {
-  "aptos": [
-    {
       "name": "MovEX",
       "types": ["DEFI"],
-      "icon": "https://github.com/chainx-org/move-dapp-list/blob/main/assets/MovEX.jpeg",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/MovEX.jpeg",
       "description": "Aptos上第一个DEX",
       "link": "https://www.movex.exchange/",
       "twitter": "https://twitter.com/joinMovEX",
       "discord": "discord.gg/U5BPsCFCRu"
-    },
+    }
+  ],
+  "sui": [
+  ],
+  "starcoin": [
+  ]
+}
