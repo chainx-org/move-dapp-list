@@ -130,7 +130,7 @@
       "description": "去中心化的交易所",
       "link": "https://app.animeswap.org/#/swap?chain=aptos_devnet",
       "twitter": "https://twitter.com/animeswap_org",
-      "discord": "discord.gg/rbUG6SpRAM"
+      "discord": "https:discord.gg/rbUG6SpRAM"
     },
     {
       "name": "OpenOcean",
@@ -149,7 +149,7 @@
       "description": "Aptos上第一个DEX",
       "link": "https://www.movex.exchange/",
       "twitter": "https://twitter.com/joinMovEX",
-      "discord": "discord.gg/U5BPsCFCRu"
+      "discord": "https:discord.gg/U5BPsCFCRu"
     }
   ],
   "sui": [
