@@ -24,15 +24,6 @@
     }
   ],
   "starcoin": [
-    {
-      "name": "OmniBTC",
-      "types": ["Social", "DEFI", "Tools"],
-      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
-      "description": "1KX protocol是AMM + DEX + 借贷协. 1KX protocol是AMM + DEX + 借贷协 …",
-      "link": "https://www.omnibtc.finance/",
-      "twitter": "https://twitter.com/OmniBTC",
-      "medium": "https://medium.com/@omnibtc",
-      "telegram": "https://twitter.com/OmniBTC"
-    }
+  
   ]
 }
