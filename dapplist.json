@@ -151,6 +151,73 @@
       "twitter": "https://twitter.com/joinMovEX",
       "discord": "https:discord.gg/U5BPsCFCRu"
     }
+    {
+      "name": "OmniBTC",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "第一个去中心化的全链金融平台。",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "Pontem Network",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/pontem.png",
+      "description": "Pontem是一个产品工作室，致力于实现由区块链驱动的全球金融包容性。我们与Aptos合作，建立基础的dApps和其他基础设施，使Aptos网络得到采用，如开发工具、EVM实施、AMM等。",
+      "link": "https://pontem.network/",
+      "twitter": "https://twitter.com/PontemNetwork",
+      "discord": "https://discord.com/invite/44QgPFHYqs",
+      "telegram": "https://t.me/pontemnetworkchat"
+    },
+    {
+      "name": "Hanson",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/Hanson.png",
+      "description": "Aptos上一个自动交易资产的做市商",
+      "link": "https://hanson.so/",
+      "twitter": "https://twitter.com/hansondotso"
+    },
+{
+      "name": "Aries Market",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/Aires.jpeg",
+      "description": "Aptos上分散的保证金交易",
+      "link": "https://ariesmarkets.xyz/",
+      "twitter": "https://twitter.com/AriesMarkets",
+      "discord": "https://discord.com/invite/ariesmarkets"
+    },
+{
+      "name": "Apsolut",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/Apsolut.jpeg",
+      "description": "Aptos上第一个被动收入协议。",
+      "twitter": "https://twitter.com/ApsolutProtocol"
+    },
+    {
+      "name": "Mira Labs",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/Mira.jpeg",
+      "description": "构建Aptos上下一代的指数管理。",
+      "link": "https://www.mirafinance.io/",
+      "twitter": "https://twitter.com/Mira_Finance"
+    },
+ {
+      "name": "Clone Protocol",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/Clone.jpeg",
+      "description": "可扩展的合成资产。",
+      "twitter": "https://twitter.com/Mira_Finance"
+    },
+    {
+      "name": "Alta",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/alta.png",
+      "description": "DeFi协议。",
+      "link": "https://altafinance.com/",
+      "twitter": "https://twitter.com/alta_finance"
+    },
   ],
   "sui": [
   ],
