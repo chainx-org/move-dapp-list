@@ -150,7 +150,7 @@
       "link": "https://www.movex.exchange/",
       "twitter": "https://twitter.com/joinMovEX",
       "discord": "https:discord.gg/U5BPsCFCRu"
-    }
+    },
     {
       "name": "OmniBTC",
       "types": ["DEFI"],
@@ -217,7 +217,7 @@
       "description": "DeFi协议。",
       "link": "https://altafinance.com/",
       "twitter": "https://twitter.com/alta_finance"
-    },
+    }
   ],
   "sui": [
   ],
