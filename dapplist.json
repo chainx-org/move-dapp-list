@@ -41,7 +41,7 @@
     },
     {
       "name": "KX.finance",
-      "types": ["DEFI"],
+      "types": ["DEX","DEFI"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/KX.finance.jpeg",
       "description": "Aptos/Sui上的DeFi/DEX聚合器",
       "link": "https://www.kx.finance/",
