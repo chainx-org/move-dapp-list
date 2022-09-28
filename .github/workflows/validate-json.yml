@@ -3,7 +3,7 @@ name: Validate JSON
 on: [pull_request, push]
 
 jobs:
-  test:
+  json-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
