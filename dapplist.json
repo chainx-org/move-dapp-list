@@ -143,15 +143,6 @@
       "telegram": "https://t.me/OOFinance"
     },
     {
-      "name": "MovEX",
-      "types": ["DEX"],
-      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/MovEX.jpeg",
-      "description": "Aptos上第一个DEX",
-      "link": "https://www.movex.exchange/",
-      "twitter": "https://twitter.com/joinMovEX",
-      "discord": "https:discord.gg/U5BPsCFCRu"
-    },
-    {
       "name": "OmniBTC",
       "types": ["DEFI"],
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
@@ -220,6 +211,15 @@
     }
   ],
   "sui": [
+        {
+      "name": "MovEX",
+      "types": ["DEX"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/MovEX.jpeg",
+      "description": "Sui上第一个DEX",
+      "link": "https://www.movex.exchange/",
+      "twitter": "https://twitter.com/joinMovEX",
+      "discord": "https:discord.gg/U5BPsCFCRu"
+    }
   ],
   "starcoin": [
   ]
