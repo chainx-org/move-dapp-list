@@ -154,7 +154,7 @@
     },
     {
       "name": "Pontem Network",
-      "types": ["DEFI"],
+      "types": ["DE", "Wallet"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/pontem.png",
       "description": "Pontem是一个产品工作室，致力于实现由区块链驱动的全球金融包容性。我们与Aptos合作，建立基础的dApps和其他基础设施，使Aptos网络得到采用，如开发工具、EVM实施、AMM等。",
       "link": "https://pontem.network/",
@@ -242,7 +242,7 @@
     {
       "name": "Headphone Homies",
       "types": ["NFT"],
-      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/AHeadphone.png",
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Headphone.png",
       "description": "有传言说有一个聚会。",
       "twitter": "https://twitter.com/headphonehomies"
     },
@@ -550,6 +550,128 @@
       "description": "Its Rare是您在Aptos区块链上创建、发现和交易数字资产的新门户。",
       "link": "https://aptos.itsrare.app/#/",
       "twitter": "https://twitter.com/itsrareMarket"
+    },
+    {
+      "name": "ComingChat",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ComingChat.jpeg",
+      "description": "ComingChat是一个基于SocialFi的Web3门户应用程序，具有DeFi和GameFi功能。",
+      "link": "https://coming.chat/",
+      "twitter": "https://twitter.com/ComingChatApp",
+      "discord": "https://discord.gg/67Dq9kwsk5"
+    },
+    {
+      "name": "Petra",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Petra.jpeg",
+      "description": "Aptos官方钱包。",
+      "link": "https://petra.app/",
+      "twitter": "https://twitter.com/PetraWallet",
+      "discord": "https://discord.com/invite/petrawallet"
+    },
+    {
+      "name": "Fewcha",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Fewcha.jpeg",
+      "description": "Aptos第1层区块链的加密货币钱包。",
+      "link": "https://fewcha.app/",
+      "twitter": "https://twitter.com/FewchaWallet",
+      "discord": "https://discord.com/invite/fewcha"
+    },
+    {
+      "name": "Martian",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Martian.png",
+      "description": "最值得信赖的Aptos钱包。",
+      "link": "https://martianwallet.xyz/",
+      "twitter": "https://twitter.com/martian_wallet",
+      "discord": "https://discord.com/invite/martian-wallet"
+    },
+    {
+      "name": "ONTO Wallet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ONTO Wallet.jpeg",
+      "description": "一个基于DID的网关，提供无缝的Web3体验，允许你在一个地方管理你的数字、身份、数据和资产。",
+      "link": "https://onto.app/",
+      "twitter": "https://twitter.com/ONTOWallet"
+    },
+    {
+      "name": "Spika",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Spika.png",
+      "description": "在Aptos区块链上建立一个加密货币钱包。",
+      "link": "https://spika.app/",
+      "twitter": "https://twitter.com/SpikaApp"
+    },
+    {
+      "name": "hive",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/hive.jpeg",
+      "description": "Aptos在你的口袋里。",
+      "link": "https://www.hivewithme.xyz/",
+      "twitter": "https://twitter.com/hivewithme"
+    },
+    {
+      "name": "Volt.id",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Volt.id.png",
+      "description": "一个无钥匙的多链web3钱包，带来了易用性和安全性。",
+      "link": "https://volt.id/#/download",
+      "twitter": "https://twitter.com/VoltWallet",
+      "discord": "https://discord.com/invite/uBNp4s4tHu"
+    },
+    {
+      "name": "EVO Wallet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/EVO.png",
+      "description": "用户友好的aptos iOS和Android的钱包。",
+      "link": "https://evowallet.app/",
+      "twitter": "https://twitter.com/evowalletaptos",
+      "discord": "https://discord.com/invite/y6J22fyQuR"
+    },
+    {
+      "name": "Nightly Wallet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Nightly.jpeg",
+      "description": "尖端的、多链式的加密货币钱包。",
+      "link": "https://linktr.ee/nightlyapp",
+      "twitter": "https://twitter.com/Nightly_app",
+      "discord": "https://discord.com/invite/7nhFHA6yZq"
+    },
+    {
+      "name": "Fletch",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Fletch.jpeg",
+      "description": "Aptos上最容易获得的web3钱包。",
+      "link": "https://linktr.ee/fletchwallet",
+      "twitter": "https://twitter.com/fletchwallet",
+      "discord": "https://discord.com/invite/fletchwallet"
+    },
+    {
+      "name": "BloctoApp",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/BloctoApp.jpeg",
+      "description": "让区块链变得简单，让所有人都能使用。",
+      "link": "https://token.blocto.app/",
+      "twitter": "https://twitter.com/BloctoApp",
+      "discord": "https://discord.com/invite/QRZTr6yHmY"
+    },
+    {
+      "name": "Frontier",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Frontier.jpeg",
+      "description": "我们的加密货币和DeFi的前座。从一个地方存储、赚取、交换和投资加密货币资产。",
+      "link": "https://frontier.xyz/",
+      "twitter": "https://twitter.com/FrontierDotXYZ"
+    },
+    {
+      "name": "Snowflake",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Snowflake.jpeg",
+      "description": "Solana和Aptos的Multisig平台和链上自动化。",
+      "link": "https://snowflake.so/",
+      "twitter": "https://twitter.com/fletchwallet",
+      "discord": "https://discord.com/invite/9qWK2BNaMD"
     }
   ],
   "sui": [
@@ -560,7 +682,7 @@
       "description": "Sui上第一个DEX",
       "link": "https://www.movex.exchange/",
       "twitter": "https://twitter.com/joinMovEX",
-      "discord": "https:discord.gg/U5BPsCFCRu"
+      "discord": "https://discord.com/invite/U5BPsCFCRu"
     }
   ],
   "starcoin": [
