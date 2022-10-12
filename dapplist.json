@@ -456,6 +456,100 @@
       "link": "https://aptosyo.co/",
       "twitter": "https://twitter.com/Apto_yo",
       "discord": "https://discord.com/invite/aptosyo"
+    },
+    {
+      "name": "SPOOKS",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/SPOOKS.jpeg",
+      "description": "专注于社区和跟踪工具的Web3品牌。",
+      "link": "https://spooks.land/list/upcoming",
+      "twitter": "https://twitter.com/SpooksLand"
+    },
+    {
+      "name": "Apebook",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Apebook.jpeg",
+      "description": "你的Go-To-NFT维基百科。发现并提供关于您最喜爱的NFT项目的新边缘。",
+      "link": "https://apebook.io/",
+      "twitter": "https://twitter.com/Apebook_NFT",
+      "discord": "https://discord.com/invite/sVwhDDBNnF"
+    },
+    {
+      "name": "Wav3",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Wav3.jpeg",
+      "description": "Wav3是一个工具、智能合约等的集合，旨在使创建和启动数字资产的过程更容易。",
+      "link": "https://wav3.net/",
+      "twitter": "https://twitter.com/aptos_wave"
+    },
+    {
+      "name": "4c.labs",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/4C Factory.jpeg",
+      "description": "4C是一个Web3 NFT工厂，只创造高质量的衍生NFT。",
+      "link": "https://4clabs.xyz/",
+      "twitter": "https://twitter.com/labs_4c",
+      "discord": "https://discord.com/invite/FVhmdrSWKW"
+    },
+    {
+      "name": "Souffl3",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Souffl3.jpeg",
+      "description": "Aptos上排名第一的NFT市场。",
+      "link": "https://souffl3.com/",
+      "twitter": "https://twitter.com/nft_souffl3",
+      "discord": "https://discord.com/invite/souffl3"
+    },
+    {
+      "name": "Topaz",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Topaz.png",
+      "description": "发现艺术、文化和数字表达。首要的NFT市场，建立在Aptos上。",
+      "link": "https://www.topaz.so/",
+      "twitter": "https://twitter.com/TopazMarket",
+      "discord": "https://discord.com/invite/SWVxuJkFSH"
+    },
+    {
+      "name": "SeaShrine",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/SeaShrine.jpeg",
+      "description": "Aptos链上最新的NFT市场。",
+      "link": "https://seashrine.io/",
+      "twitter": "https://twitter.com/SeaShrineNFT",
+      "discord": "https://discord.com/invite/Xn6d828ZnX"
+    },
+    {
+      "name": "Aptos CostalPegs",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aptos CostalPegs.jpeg",
+      "description": "最大的NFT市场在aptos区块链上启动。",
+      "twitter": "https://twitter.com/AptoCostalPegs",
+      "discord": "https://discord.com/invite/UffQthBmys"
+    },
+    {
+      "name": "Space Powder",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Space Powder.jpeg",
+      "description": "最伟大的Aptos NFT市场。",
+      "link": "https://www.spacepowder.io/",
+      "twitter": "https://twitter.com/spacepowdernft"
+    },
+    {
+      "name": "BlueMove",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/BlueMove.png",
+      "description": "BlueMove是Aptos和Sui上领先的多链NFT市场。",
+      "link": "https://bluemove.net/",
+      "twitter": "https://twitter.com/BlueMoveNFT",
+      "discord": "https://discord.com/invite/bluemove"
+    },
+    {
+      "name": "itsRare",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/itsRare.jpeg",
+      "description": "Its Rare是您在Aptos区块链上创建、发现和交易数字资产的新门户。",
+      "link": "https://aptos.itsrare.app/#/",
+      "twitter": "https://twitter.com/itsrareMarket"
     }
   ],
   "sui": [
