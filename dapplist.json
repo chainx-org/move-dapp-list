@@ -154,7 +154,7 @@
     },
     {
       "name": "Pontem Network",
-      "types": ["DE", "Wallet"],
+      "types": ["DEFI", "Wallet"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/pontem.png",
       "description": "Pontem是一个产品工作室，致力于实现由区块链驱动的全球金融包容性。我们与Aptos合作，建立基础的dApps和其他基础设施，使Aptos网络得到采用，如开发工具、EVM实施、AMM等。",
       "link": "https://pontem.network/",
