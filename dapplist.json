@@ -553,7 +553,7 @@
     },
     {
       "name": "ComingChat",
-      "types": ["Wallet"],
+      "types": ["Social"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ComingChat.jpeg",
       "description": "ComingChat是一个基于SocialFi的Web3门户应用程序，具有DeFi和GameFi功能。",
       "link": "https://coming.chat/",
@@ -683,6 +683,265 @@
       "link": "https://www.movex.exchange/",
       "twitter": "https://twitter.com/joinMovEX",
       "discord": "https://discord.com/invite/U5BPsCFCRu"
+    },
+    {
+      "name": "ComingChat",
+      "types": ["Social"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ComingChat.jpeg",
+      "description": "ComingChat是一个基于SocialFi的Web3门户应用程序，具有DeFi和GameFi功能。",
+      "link": "https://coming.chat/",
+      "twitter": "https://twitter.com/ComingChatApp",
+      "discord": "https://discord.gg/67Dq9kwsk5"
+    },
+    {
+      "name": "Peeranha",
+      "types": ["Social"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Peeranha.jpeg",
+      "description": "Peeranha是一个完全去中心化的协议，有问有答，用结构化的知识帮助你的社区。",
+      "link": "https://peeranha.io/",
+      "twitter": "https://twitter.com/Peeranhaio"
+    },
+    {
+      "name": "Quask",
+      "types": ["Social"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Quask.jpeg",
+      "description": "一个基于socialfi网络和Aptos & Sui平台的Web3知识付费问答系统。",
+      "link": "https://www.quask.xyz/",
+      "twitter": "https://mobile.twitter.com/ama_web3"
+    },
+    {
+      "name": "OmniBTC",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png",
+      "description": "第一个去中心化的全链金融平台。",
+      "link": "https://www.omnibtc.finance/",
+      "twitter": "https://twitter.com/OmniBTC",
+      "medium": "https://medium.com/@omnibtc",
+      "telegram": "https://twitter.com/OmniBTC"
+    },
+    {
+      "name": "Leizd Protocol",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Leizd Protocol.jpeg",
+      "description": "真正的无许可借贷，在Aptos和sui上，可以列出所有资产，不分离流动性，但隔离风险。",
+      "twitter": "https://twitter.com/LeizdProtocol"
+    },
+    {
+      "name": "Aftermath Finance",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aftermath Finance.jpeg",
+      "description": "在Sui上构建基础的DeFi层。",
+      "twitter": "https://twitter.com/AftermathFi"
+    },
+    {
+      "name": "Arco Protocol",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Arco Protocol.jpeg",
+      "description": "一个跨链的DeFi借贷和押注平台，可在Aptos使用，即将在Sui上使用。",
+      "link": "https://arcoprotocol.tech/",
+      "twitter": "https://twitter.com/ArcoProtocol"
+    },
+    {
+      "name": "Hentis",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Hentis.jpeg",
+      "description": "结合一整套功能，推动Sui分散式金融的发展。",
+      "link": "https://www.hentis.one/",
+      "twitter": "https://twitter.com/Hentis_one"
+    },
+    {
+      "name": "Suiswap",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Suiswap.jpeg",
+      "description": "Sui区块链上的交换平台。",
+      "link": "https://suiswap.app/",
+      "twitter": "https://twitter.com/suiswap_app",
+      "discord": "https://discord.com/invite/D3M5CpMEch"
+    },
+    {
+      "name": "Cetus",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Cetus.jpeg",
+      "description": "建立在Aptos和Sui之上的先锋流动性协议。",
+      "link": "https://www.cetus.zone/",
+      "twitter": "https://twitter.com/CetusProtocol",
+      "discord": "https://discord.com/invite/rQtYGfmcD8"
+    },
+    {
+      "name": "Porto Labs",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Porto Labs.jpeg",
+      "description": "构建一个水土不服的合成资产协议。把自己从桥梁中解放出来，以高达20倍的杠杆进行交易，零滑点。",
+      "link": "https://portolabs.org/",
+      "twitter": "https://twitter.com/PortoLabs_"
+    },
+    {
+      "name": "OriginByte",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/OriginByte.jpeg",
+      "description": "建立标准和工具，使游戏和NFT创作者的生活更容易。",
+      "twitter": "https://twitter.com/Origin_Byte"
+    },
+    {
+      "name": "TidalSwap",
+      "types": ["DEFI"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/TidalSwap.jpeg",
+      "description": "用下一代多链推进跨链AMM Gamefi在aptos和sui上的奖励。",
+      "link": "https://tidalswap.com/",
+      "twitter": "https://twitter.com/tidalswap"
+    },
+    {
+      "name": "Coin98",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Coin98.jpeg",
+      "description": "你的加密货币一切应用。",
+      "link": "https://coin98.com/",
+      "twitter": "https://twitter.com/coin98_wallet",
+      "discord": "https://discord.com/invite/ytkeARXYu9"
+    },
+    {
+      "name": "Morphis Wallet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Morphis.jpeg",
+      "description": "一个友好和安全的钱包，为大众所接受，由Sui提供支持。",
+      "twitter": "https://twitter.com/morphis_wallet"
+    },
+    {
+      "name": "Hydro Wallet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Hydro.jpeg",
+      "description": "Sui生态钱包。",
+      "link": "https://hydro.tech/",
+      "twitter": "https://twitter.com/HydroWallet",
+      "discord": "https://discord.com/invite/hydrowallet"
+    },
+    {
+      "name": "Ethos",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Ethos.png",
+      "description": "你的web3的大本营，从Sui开始。易于集成应用程序内的钱包，是加入好奇的新加密货币用户的最佳方式。",
+      "link": "https://ethoswallet.xyz/",
+      "twitter": "https://twitter.com/EthosWalletXYZ"
+    },
+    {
+      "name": "Suiet",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Suiet.png",
+      "description": "最好的Sui钱包。",
+      "link": "https://suiet.app/",
+      "twitter": "https://twitter.com/suiet_wallet",
+      "discord": "https://discord.com/invite/XQspMzXNXu"
+    },
+    {
+      "name": "Wave Wallet ",
+      "types": ["Wallet"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Wave Wallet.jpeg",
+      "description": "即将公布。",
+      "link": "https://www.wavewallet.app/",
+      "twitter": "https://twitter.com/WaveWalletApp",
+      "discord": "https://discord.com/invite/zMHVq8S2hz"
+    },
+    {
+      "name": "KX.finance",
+      "types": ["DEX"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/KX.finance.jpeg",
+      "description": "DeFi/DEX聚合器开始在Aptos/Sui运行。",
+      "link": "https://www.kx.finance/",
+      "twitter": "https://twitter.com/KXfinance",
+      "discord": "https://discord.com/invite/kkGQhbmtD9"
+    },
+    {
+      "name": "Palladium",
+      "types": ["DEX"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Palladium.png",
+      "description": "Palladium是一个用户可定制的DEX协议，建立在两个移动基础的VM实现的区块链Aptos & Sui上。",
+      "twitter": "https://twitter.com/Palladium_DEX"
+    },
+    {
+      "name": "KX.finance",
+      "types": ["DEX"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/KX.finance.jpeg",
+      "description": "DeFi/DEX聚合器开始在Aptos/Sui运行。",
+      "link": "https://www.kx.finance/",
+      "twitter": "https://twitter.com/KXfinance",
+      "discord": "https://discord.com/invite/kkGQhbmtD9"
+    },
+    {
+      "name": "Kriya",
+      "types": ["DEX"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Kriya.jpeg",
+      "description": "链上最快的衍生品交易所。",
+      "link": "https://efficacy.finance/kriya-sui-dex/",
+      "twitter": "https://twitter.com/KriyaDEX"
+    },
+    {
+      "name": "STARSPACE",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/STARSPACE.jpeg",
+      "description": "通过Sui的首要NFT市场进入无限可能的宇宙。",
+      "link": "https://www.starspace.io/",
+      "twitter": "https://twitter.com/STARSPACEio",
+      "discord": "https://discord.com/invite/yfqpMdDw4w"
+    },
+    {
+      "name": "BlueMove",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/BlueMove.png",
+      "description": "BlueMove是Aptos和Sui上领先的多链NFT市场。",
+      "link": "https://bluemove.net/",
+      "twitter": "https://twitter.com/BlueMoveNFT",
+      "discord": "https://discord.com/invite/bluemove"
+    },
+    {
+      "name": "Clutchy",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Clutchy.jpeg",
+      "description": "Sui的游戏和NFT市场。",
+      "link": "https://clutchy.io/",
+      "twitter": "https://twitter.com/Clutchy_io",
+      "discord": "https://discord.com/invite/clutchyNFT"
+    },
+    {
+      "name": "Sui Gallery",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Sui Gallery.jpeg",
+      "description": "面向未来10亿用户的NFT市场。",
+      "link": "https://www.sui.gallery/",
+      "twitter": "https://twitter.com/GallerySui",
+      "discord": "https://discord.com/invite/suigallery"
+    },
+    {
+      "name": "Top NFT",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Top NFT.png",
+      "description": "TopNFT是Move Ecosystem（Aptos和Sui区块链）上领先的NFT市场和GameFi中心。",
+      "link": "https://topnft.app/launchpad",
+      "twitter": "https://twitter.com/TopNftMart",
+      "discord": "https://discord.com/invite/qDDRke3HD8"
+    },
+    {
+      "name": "Sui Art",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Sui Art.jpeg",
+      "description": "社区第一NFT市场。",
+      "link": "https://sui.art/",
+      "twitter": "https://twitter.com/suidotart"
+    },
+    {
+      "name": "Dragon SUI",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Dragon SUI.jpeg",
+      "description": "SUI区块链上的NFT市场。",
+      "link": "https://dragonsui.com/",
+      "twitter": "https://twitter.com/dragonsui_com"
+    },
+    {
+      "name": "KeepSake",
+      "types": ["NFT"],
+      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/KeepSake.jpeg",
+      "description": "SUI区块链上最大的NFT市场。为每个收藏品增加独特的价值。",
+      "link": "https://keepsake.gg/",
+      "twitter": "https://twitter.com/KeepSakeMarket"
     }
   ],
   "starcoin": [
