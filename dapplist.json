@@ -553,7 +553,7 @@
     },
     {
       "name": "ComingChat",
-      "types": ["Social"],
+      "types": ["Social", "Wallet"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ComingChat.jpeg",
       "description": "ComingChat是一个基于SocialFi的Web3门户应用程序，具有DeFi和GameFi功能。",
       "link": "https://coming.chat/",
@@ -686,7 +686,7 @@
     },
     {
       "name": "ComingChat",
-      "types": ["Social"],
+      "types": ["Social", "Wallet"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/ComingChat.jpeg",
       "description": "ComingChat是一个基于SocialFi的Web3门户应用程序，具有DeFi和GameFi功能。",
       "link": "https://coming.chat/",
