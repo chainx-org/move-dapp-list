@@ -220,7 +220,7 @@
       "name": "Rekt Dogs",
       "types": ["NFT"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Rekt Dogs.png",
-      "description": "一个以社区为中心的monkey项目，一共7777只",
+      "description": "Aptos上的6666只rekt dogs，一个支持和奖励建设者的社区",
       "twitter": "https://twitter.com/rektdogs",
       "discord": "https://discord.com/invite/rektdogs"
     },
@@ -235,7 +235,7 @@
       "name": "Aptos Monkeys",
       "types": ["NFT"],
       "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aptos Monkeys.jpeg",
-      "description": "Aptos上的6666只rekt dogs，一个支持和奖励建设者的社区。",
+      "description": "一个以社区为中心的monkey项目，一共7777只",
       "twitter": "https://twitter.com/AptosMonkeys",
       "discord": "https://discord.com/invite/sFfe75BHQ3"
     },
